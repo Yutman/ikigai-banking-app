@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "The Future",
-  description: "The Future is a modern banking platform for everyone.",
+  title: "Ikigai Investment Group",
+  description: "Ikigai Investment Group is a modern banking platform for everyone.",
   icons: {
     icon: '/icons/logo.svg',
   }
