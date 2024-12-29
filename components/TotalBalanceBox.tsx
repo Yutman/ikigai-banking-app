@@ -1,5 +1,5 @@
-import { formatAmount } from '@/lib/utils';
-import AnimatedCounter from './ui/AnimatedCounter';
+// import { formatAmount } from '@/lib/utils';
+import AnimatedCounter from './AnimatedCounter';
 import React from 'react'
 import DoughnutChart from './DoughnutChart';
 
